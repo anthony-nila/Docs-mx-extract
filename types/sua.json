@@ -1,0 +1,23 @@
+{
+  "name": "sua",
+  "pages": "one-one",
+  "check": "un documento de SUA, SISTEMA ÚNICO DE AUTODETERMINACIÓN, CÉDULA DE DETERMINACIÓN DE CUOTAS del IMMS?",
+  "response": {
+    "RPU": "resgistro patronal",
+    "RFC": "rfc",
+    "period": "cual es el periodo de Proceso?",
+    "version": "version del documento (V)",
+    "date": "Fecha de proceso",
+    "name": "Nombre o Razón Social",
+    "delegation": "Delegación IMSS",
+    "subDelegation": "SubDelegación IMSS",
+    "address": "Domicilio",
+    "cp": "Código Postal",
+    "activity": "Actividad",
+    "quoteDays": "total de días cotizados(Suma de todos los días de los colaboradores)",
+    "payTotal": "Total a pagar",
+    "totalContributors": "Total de cotizantes:",
+    "people": "Genera una lista json de los colaboradores sin repetir incluyendo los datos adicionales de cada empleado y los siguientes campos: días, SDI, Licencia, Incapacidad, Ausentismos, C.F., Exc.Pat, Exc.Obr, P.D.Pat, P.D.Obr, G.M.P.Pat, G.M.P.Obr, R.T., I.V.Pat, I.V.Obr, G.P.S., Patronal, Obrera, Subtotal. Renombra los campos como: clave=Número de seguro (Al numero de seguro quita los guiones '-'), name=Nombre del colaborador, rfc_curp=RFC o CURP del colaborador, total=Subtotal, etc..."
+  }
+}
+

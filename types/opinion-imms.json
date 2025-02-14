@@ -1,0 +1,14 @@
+{
+  "name": "opinion-imms",
+  "pages": "all",
+  "check": "una opinion del cumplimiento de obligaciones Fiscales en materia de Seguridad Social, del IMMS?",
+  "response": {
+    "folio": "folio",
+    "rfc": "clave RFC",
+    "name": "nombre (denominacion social)",
+    "date": "fecha de la revision",
+    "dateF": "fecha de la revision en formato Y-m-d",
+    "status": "Estatus si es en sentido positivo o negativo, convierte el resultado a mayusculas",
+    "employees": "Número de empleados registrados y activos"
+  }
+}

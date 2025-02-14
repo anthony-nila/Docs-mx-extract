@@ -1,0 +1,35 @@
+{
+  "name": "dc3",
+  "pages": "all",
+  "check": "Un documento DC3?",
+  "response": {
+    "name": "Nombre del trabajador",
+    "curp": "Clave unica de registro de poblacion o curp",
+    "occupation": "Ocupación del trabajador",
+    "job": "puesto de trabajo",
+    "company": "Nombre de la empresa",
+    "rfc": "Registro federal de contribuyentes o RFC de la empresa (SHCP)",
+    "curse": "Nombre del curso",
+    "curseTime": "Duracion del curso",
+    "dateInit": "Fecha de inicio del curso",
+    "dateEnd": "Fecha de termino del curso",
+    "area": "Area tematica del curso",
+    "agent": "Nombre del capacitador",
+    "agentName": "Nombre del capacitador primero apellidos y depues el nombre",
+    "stps": "stps del capacitador",
+    "signature": {
+      "agent": {
+        "name": "Nombre del capacitador",
+        "signature": "true o false si se encuentra la firma del capacitador"
+      },
+      "patron": {
+        "name": "Nombre del patron o representante legal",
+        "signature": "true o false si se encuentra la firma de el patron o representante legal"
+      },
+      "representative": {
+        "name": "Nombre del representante de los trabajadores",
+        "signature": "true o false si se encuentra la firma de el representante de los trabajadores"
+      }
+    }
+  }
+}

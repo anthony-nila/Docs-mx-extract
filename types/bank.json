@@ -1,0 +1,11 @@
+{
+  "name": "Caratula bancaria",
+  "pages": "all",
+  "check": "una caratula bancaria?",
+  "response": {
+    "bank": "Banco",
+    "accountNum": "Numero de cuenta",
+    "clabe": "clabe",
+    "name": "empresa (Nombre de la empresa)"
+  }
+}

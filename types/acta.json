@@ -1,0 +1,11 @@
+{
+  "name": "Acta constitutiva",
+  "pages": "all",
+  "check": "una acta constitutiva?",
+  "response": {
+    "notario": "Nombre del notario",
+    "numNotaria": "Número de notaria",
+    "name": "Nombre (Nombre de la sociedad)",
+    "objectSocial": "Genera una lista JSON con los objetivos de la sociedad, solo el objetivo sin mas objetos"
+  }
+}

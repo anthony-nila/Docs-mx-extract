@@ -1,0 +1,13 @@
+{
+  "name": "SUA Mov",
+  "pages": "all",
+  "check": "una Constancia de presentación de movimientos afiliatorios?",
+  "response": {
+    "folio": "Número de folio",
+    "RFC": "RFC",
+    "RPU": "Registro patronal",
+    "name": "Razón social",
+    "date": "Fecha y hora de recepción del lote",
+    "people": "Genera una lista JSON de los movimientos de los colaborares, clave=NSS, name=Nombre del asegurado, date=Fecha de movimiento en formato Y-m-d"
+  }
+}

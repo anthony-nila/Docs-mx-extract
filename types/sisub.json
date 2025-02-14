@@ -1,0 +1,17 @@
+{
+  "name": "SISUB",
+  "pages": "all",
+  "check": "una documeto SISUB?",
+  "response": {
+    "rfc": "rfc",
+    "name": "Nombre, denominación o razón social",
+    "contract": "Número de contrato",
+    "register": "Número de registro STPS",
+    "fourPeriod": "Cuatrimestre que se declara",
+    "numRegister": "Número de Registros Patronales Recibidos",
+    "numEmployes": "Número de Trabajadores Relacionados",
+    "date": "Fecha de carga",
+    "dateF": "Fecha de carga en formato Y-m-d",
+    "dateTime": "Hora de la carga"
+  }
+}

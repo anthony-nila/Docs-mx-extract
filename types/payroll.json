@@ -1,0 +1,17 @@
+{
+  "name": "Pago de nómina",
+  "pages": "all",
+  "check": "un comprobante de pago de nomina?",
+  "response": {
+    "bussines": "nombre de la empresa",
+    "rfc": "rfc de la empresa",
+    "rpu": "registro patronal de la empresa",
+    "regimen": "regimen fiscal",
+    "date": "fecha de emision en formato Y-m-d",
+    "name": "Nombre del colaborador",
+    "rfcEmploye": "rfc del colaborador",
+    "curp": "curp del colaborador",
+    "nss": "NSS (Numero de seguro del colaborador)",
+    "pay": "neto total de pago"
+  }
+}

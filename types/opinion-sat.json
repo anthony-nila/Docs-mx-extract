@@ -1,0 +1,11 @@
+{
+  "name": "opinion-sat",
+  "pages": "all",
+  "check": "una opinion del cumplimiento de obligaciones fiscales?",
+  "response": {
+    "name": "Nombre (Razon social)",
+    "date": "fecha de la revision",
+    "dateF": "fecha de la revision en formato Y-m-d",
+    "status": "Estatus si es en sentido positivo o negativo"
+  }
+}

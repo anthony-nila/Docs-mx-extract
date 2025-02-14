@@ -1,0 +1,14 @@
+{
+  "name": "SUA PAY",
+  "pages": "all",
+  "check": "un comprobante de pago?",
+  "response": {
+    "bank": "Nombre del banco",
+    "date": "fecha de pago",
+    "dateF": "fecha de pago en formato Y-m-d",
+    "rpu": "Registro patronal",
+    "period": "Periodo de pago",
+    "folio": "Folio SUA",
+    "total": "Importe total en formato unicamente números y moneda"
+  }
+}

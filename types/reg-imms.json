@@ -1,0 +1,11 @@
+{
+  "name": "Registro patronal IMMS",
+  "pages": "all",
+  "check": "un registro patronal del imms?",
+  "response": {
+    "rpu": "Número de registro patronal (Num de registro) Quitar todos los espacion del numero",
+    "name": "nombre del patron",
+    "activiy": "actividad",
+    "placeDispatch": "lugar de expedicion"
+  }
+}

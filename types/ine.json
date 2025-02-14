@@ -1,0 +1,14 @@
+{
+  "name": "Identificación",
+  "pages": "all",
+  "check": "una identificacion INE?",
+  "response": {
+    "name": "Nombre.",
+    "address": "Dirección.",
+    "curp": "CURP.",
+    "emision": "Emision (Año de regisro), en formato Y-m.",
+    "validity": "Vigencia (Año de vigencia).",
+    "dateBirth": "Fecha de nacimiento en formato Y-m-d.",
+    "sex": "Sexo."
+  }
+}

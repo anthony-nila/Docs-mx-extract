@@ -1,0 +1,11 @@
+{
+  "name": "tax",
+  "pages": "all",
+  "check": "un comprobante de pago de iva, Contribuciones, Productos y Aprovechamientos Federales?",
+  "response": {
+    "bank": "Nombre del banco",
+    "name": "nombre del titular de la cuenta",
+    "type": "forma de pago",
+    "date": "fecha en la que se realizo en formato Y-m-d H:m"
+  }
+}

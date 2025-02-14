@@ -1,0 +1,27 @@
+{
+  "name": "csf",
+  "pages": "all",
+  "check": "una constancia de situacion fiscal?",
+  "response": {
+    "rfc": "rfc",
+    "companyName": "(Denominacion, razon social, nombre)",
+    "regimenCapital": "regimen capital",
+    "name": "nombre",
+    "dateInit": "fecha inicio",
+    "status": "status padron",
+    "lastChange": "fecha ultimo cambio",
+    "cp": "Codigo postal",
+    "typeOfRoad": "tipo de vialidad",
+    "street": "En la tabla Datos del domicilio, Cual es la calle del domicilio, no entre que calles se encuentra?",
+    "number": "En la tabla Datos del domicilio, Cual es el número exterior?",
+    "numberIn": "En la tabla Datos del domicilio, Cual es el número interior?",
+    "suburb": "colonia, (nombre de la colonia)",
+    "city": "Nombre de la localidad",
+    "municipality": "Nombre del municipio (Demarcacion territorial)",
+    "state": "Entidad federativa",
+    "fecha_inicio_f": "convierte la fecha de inicio a formato Y-m-d",
+    "activity": "Genera una lista json de las actividades economicas, activity=Actividad economica, percent=Porcentaje, dateInit=Fecha inicio",
+    "regimen": "Genera una lista json de los regimenes, regimen, dateInit=Fecha inicio",
+    "obligaciones": "Genera una lista json de las obligaciones fiscales, sin repetir, description=Descripción, dateInit=Fecha de inicio"
+  }
+}

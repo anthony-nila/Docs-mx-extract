@@ -1,0 +1,17 @@
+{
+  "name": "repse",
+  "pages": "all",
+  "check": "un REPSE?",
+  "response": {
+    "no": "no(Número de acuerdo)",
+    "folio": "Numero de folio",
+    "noRegister": "Número de registro (número de aviso de registro)",
+    "name": "nombre(Nombre de a quien se emite, empresa)",
+    "dateStr": "fecha de emision",
+    "date": "fecha de emision en formato Y-m-d",
+    "rfc": "rfc",
+    "activity": "(Genera arreglo con el folio y actividad)",
+    "dateExpiry": "fecha de emision aumentale 3 años, formato Y-m-d",
+    "url": "link a pagina https://repse.stps.gob.mx/"
+  }
+}

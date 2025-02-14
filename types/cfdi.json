@@ -1,0 +1,16 @@
+{
+  "name": "cfdi",
+  "pages": "all",
+  "check": "un comprobante fiscal de nomina?",
+  "response": {
+    "rfc": "RFC de la empresa",
+    "RPU": "RPU, (Registro patronal, IMMS de la empresa)",
+    "date": "Fecha en formato Y-m-d",
+    "hour": "Hora",
+    "nss": "NSS (Número de seguro del colaborador, IMSS del colaborador, Registro de seguridad social)",
+    "curp": "CURP",
+    "rfcSender": "RFC del colaborador",
+    "name": "Nombre del colaborador",
+    "total": "Total de recibo (Total de pago)"
+  }
+}
